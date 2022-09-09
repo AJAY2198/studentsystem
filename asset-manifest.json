@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AJAY2198/studentsystem.git/static/css/main.073c9b0a.css",
+    "main.js": "/AJAY2198/studentsystem.git/static/js/main.72728236.js",
+    "static/js/787.512d3da4.chunk.js": "/AJAY2198/studentsystem.git/static/js/787.512d3da4.chunk.js",
+    "index.html": "/AJAY2198/studentsystem.git/index.html",
+    "main.073c9b0a.css.map": "/AJAY2198/studentsystem.git/static/css/main.073c9b0a.css.map",
+    "main.72728236.js.map": "/AJAY2198/studentsystem.git/static/js/main.72728236.js.map",
+    "787.512d3da4.chunk.js.map": "/AJAY2198/studentsystem.git/static/js/787.512d3da4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.72728236.js"
+  ]
+}
